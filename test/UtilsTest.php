@@ -1,7 +1,7 @@
 <?php
 
 namespace General;
-require_once '../utils.php';  // Assuming UtilsTest.php is inside a "test" folder
+require_once '../utils.php';  
 
 class UtilsTest {
 

@@ -1,7 +1,7 @@
 <?php
 // index.php
 
-require_once 'utils.php';  // Include the file where getSecureRandom is defined
+require_once 'utils.php'; 
 
 use General\Utils;
 
